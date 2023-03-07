@@ -14,8 +14,8 @@ https://github.com/GetulioLT/Workshop
 Link para baixar o GitBash:
 https://git-scm.com/download/win
 
-Link GitHub do tutor:
-https://github.com/GetulioLT/Workshop
-
-Link GitDesktop:
+Link para baixar o GitDesktop:
 https://desktop.github.com/
+
+
+
